@@ -1,6 +1,7 @@
 # Mersenne-Twister
 Mersenne-Twister RNG for Factorio
-modify for luajit 2.0.x
+
+**modified for luajit 2.0.x**
 
 
 function MT19937.seed(seed): 
